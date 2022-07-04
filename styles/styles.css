@@ -8,24 +8,28 @@ body {
     background-color: aliceblue;
     height: 100vh;
 }
+
 #images {
     height: 300px;
     width: 300px;
 }
 
-.element-example{
+.element-example {
     border: 1rem;
 }
+
 #choice {
     width: 400px;
 }
+
 .guesses {
-    background-color:#c5e0e5	;
+    background-color: #c5e0e5;
     margin: 2px 5px;
     height: 26px;
     border: 1px solid aliceblue;
 }
-.hint{
+
+.hint {
     margin: 2px 5px;
-    background-color:aquamarine;
+    background-color: aquamarine;
 }
